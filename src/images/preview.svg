@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>预览</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Custom-Preset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-659.000000, -114.000000)">
+        <g id="预览" transform="translate(660.000000, 115.000000)">
+            <circle id="椭圆_1035" stroke="#FFFFFF" stroke-width="2" cx="20.5" cy="23.5" r="3.5"></circle>
+            <path d="M7.03,23 L2,23 C0.896798134,22.9967052 0.00329480111,22.1032019 0,21 L0,2 C0.00329480111,0.896798134 0.896798134,0.00329480111 2,0 L18,0 C19.1032019,0.00329480111 19.9967052,0.896798134 20,2 L20,12.94" id="圆角矩形_1030" stroke="#FFFFFF" stroke-width="2"></path>
+            <rect id="圆角矩形_1031" fill="#FFFFFF" fill-rule="nonzero" x="4" y="4" width="9" height="2" rx="1"></rect>
+            <ellipse id="椭圆_1034" stroke="#FFFFFF" stroke-width="2" cx="20.5" cy="23.5" rx="10.5" ry="7.5"></ellipse>
+            <rect id="圆角矩形_1031_拷贝" fill="#FFFFFF" fill-rule="nonzero" x="4" y="8" width="12" height="2" rx="1"></rect>
+            <rect id="圆角矩形_1031_拷贝_2" fill="#FFFFFF" fill-rule="nonzero" x="4" y="12" width="5" height="2" rx="1"></rect>
+        </g>
+    </g>
+</svg>

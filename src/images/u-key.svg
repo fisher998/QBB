@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="119px" viewBox="0 0 54 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>u-key</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-20.5%" y="-5.5%" width="140.9%" height="116.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.230657027   0 0 0 0 0.253973602   0 0 0 0 0.262967687  0 0 0 0.196359828 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="129.071023%" id="linearGradient-2">
+            <stop stop-color="#E9EAEA" offset="0%"></stop>
+            <stop stop-color="#B9BABC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#979797" offset="0%"></stop>
+            <stop stop-color="#595959" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#E0E0E0" offset="0%"></stop>
+            <stop stop-color="#C1C1C1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#E8E8E8" offset="0%"></stop>
+            <stop stop-color="#CBCBCB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="个人中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心（证书管理U-KEY未绑定）" transform="translate(-238.000000, -475.000000)">
+            <g id="u-key" filter="url(#filter-1)" transform="translate(243.000000, 477.000000)">
+                <g id="Rectangle-4" transform="translate(8.000000, 0.000000)">
+                    <path d="M3,0 L25,0 C26.6568542,-3.04359188e-16 28,1.34314575 28,3 L28,22 C28,22.5522847 27.5522847,23 27,23 L1,23 C0.44771525,23 6.76353751e-17,22.5522847 0,22 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle-6" fill="url(#linearGradient-2)"></path>
+                    <rect id="矩形_953_拷贝-copy-2" fill="#585858" opacity="0.252622768" x="17" y="14" width="4" height="2"></rect>
+                    <rect id="矩形_953_拷贝-copy" fill="#585858" x="7" y="10" width="4" height="3"></rect>
+                    <rect id="矩形_953_拷贝-copy-4" fill="#585858" x="17" y="10" width="4" height="3"></rect>
+                    <rect id="矩形_953_拷贝-copy-3" fill="#585858" opacity="0.252622768" x="7" y="14" width="4" height="2"></rect>
+                </g>
+                <path d="M3,22 L41,22 C42.6568542,22 44,23.3431458 44,25 L44,87 C44,99.1502645 34.1502645,109 22,109 L22,109 C9.8497355,109 1.48797825e-15,99.1502645 0,87 L0,25 C-2.02906125e-16,23.3431458 1.34314575,22 3,22 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+                <rect id="Mask" fill="url(#linearGradient-4)" x="18" y="33" width="18" height="49"></rect>
+                <circle id="椭圆_9" fill="url(#linearGradient-5)" cx="10.5" cy="34.5" r="2.5"></circle>
+                <circle id="椭圆_9-copy" fill="url(#linearGradient-5)" cx="10.5" cy="42.5" r="2.5"></circle>
+                <circle id="椭圆_9-copy-2" fill="url(#linearGradient-5)" cx="10.5" cy="50.5" r="2.5"></circle>
+                <circle id="椭圆_9-copy-3" fill="url(#linearGradient-5)" cx="10.5" cy="80.5" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

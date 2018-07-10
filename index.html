@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <!-- <script type="text/javascript" src="http://115.182.212.86/webapi/v1.0/eIDPluginHelper3.0.js"></script> -->
+    <script type="text/javascript" src="static/js/eIDPluginHelper/eIDPluginHelper3.0.js"></script>
+    <script src="static/js/eIDPluginHelper/base64.js"></script>
+    <script src="http://gosspublic.alicdn.com/aliyun-oss-sdk-4.4.4.min.js"></script>
+    <script src="static/js/gdca-pki/gdca-pki-lib.js"></script>
+    <script src="static/js/gdca-pki/gdca-pki-errcode.js"></script>
+    <script src="static/js/gdca-pki/base64.js"></script>
+    <script src="static/js/jq/jquery-1.11.3.min.js"></script>
+    <script src="static/js/jq/jquery.jsonp.js"></script>
+    <title>qbb</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+    <script>
+      eID.load(loadCallback);
+        function loadCallback(isLoad, setupUrl) {
+          if (isLoad == true) {
+            console.log('eid加载成功');
+          }
+          else {
+            console.log(setupUrl);
+          }
+      }
+    </script>
+  </body>
+</html>

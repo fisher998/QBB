@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="30px" viewBox="0 0 28 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>下载</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Custom-Preset" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-872.000000, -114.000000)">
+        <g id="下载" transform="translate(873.000000, 114.000000)">
+            <path d="M17.98,9 L25,9 C25.5522847,9 26,9.44771525 26,10 L26,28 C26,28.5522847 25.5522847,29 25,29 L1,29 C0.44771525,29 0,28.5522847 0,28 L0,10 C0,9.44771525 0.44771525,9 1,9 L8,9" id="圆角矩形_1333" stroke="#FFFFFF" stroke-width="2"></path>
+            <rect id="圆角矩形_1316_拷贝_2" fill="#FFFFFF" x="12" y="0" width="2" height="20"></rect>
+            <polygon id="多边形_1322" fill="#FFFFFF" fill-rule="nonzero" points="18.6142599 14 20 15.4714342 12.9946269 21.7754411 6 15.4708865 7.38695635 14.0005477 12.9957512 19.0559931"></polygon>
+        </g>
+    </g>
+</svg>
